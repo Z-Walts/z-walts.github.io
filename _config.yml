@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zoe Walts"
-  pronouns         : they/them she/her # example: "she/her"  
+  pronouns         : "they/she" # example: "she/her"  
   bio              : "Molecular epidemiologist with community-based research training studying social and biological determinants of cancer outcomes, seeking to further develop expertise in applied epidemiology, health policy, and community engaged mixed-methods research."
   location         : "Madison, WI"
-  employer         : "University of Wisconsin Madison"
+  employer         : "U-Wisconsin Madison"
   uri              : # URL
   email            : "zwalts@wisc.edu" 
 
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"z-walts"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
