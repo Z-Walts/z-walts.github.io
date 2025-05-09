@@ -28,11 +28,11 @@ author:
   bio              : "Molecular epidemiologist with community-based research training studying social and biological determinants of cancer outcomes, seeking to further develop expertise in applied epidemiology, health policy, and community engaged mixed-methods research."
   location         : "Madison, WI"
   employer         : "U-Wisconsin Madison"
-  CV              : "https://docs.google.com/document/d/1sVzgmWbpuEG7MVSqfGJ1RY6RAOkOl7jf/edit?usp=sharing&ouid=103370240530854134821&rtpof=true&sd=true" # URL
+  uri              : "https://docs.google.com/document/d/1sVzgmWbpuEG7MVSqfGJ1RY6RAOkOl7jf/edit?usp=sharing&ouid=103370240530854134821&rtpof=true&sd=true" # URL
   email            : "zwalts@wisc.edu" 
 
   # Academic websites
-  academic site         : "https://pophealth.wisc.edu/staff/walts-zoe/" # URL
+  academia         :  # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=VvH_JGoAAAAJ"
   impactstory      : # URL
