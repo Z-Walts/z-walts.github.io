@@ -1,7 +1,7 @@
 ---
 title: "Population Health and the Carceral Continuum: A Narrative Review"
 collection: publications
-category: manuscripts
+category: rev
 permalink: /publication/2025-10-22-paper-title-number-1
 excerpt: 'Carceral logics, such as punishment & surveillance, permeate social systems. These include migration, state benefits distribution, public education, and more. We review the literature examining carcerality as a community health exposure'
 date: 2025-10-22
