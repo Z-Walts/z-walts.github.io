@@ -1,7 +1,7 @@
 ---
 title: "Associations of diabetes and mortality among colorectal cancer patients from the Southern Community Cohort Study"
 collection: publications
-category: manuscripts
+category: cancer
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Pre-diagnosis diabetes is associated with higher mortality among participants with incident CRC from a predominantly non-Hispanic Black cohort with lower socioeconomic status. The higher prevalence of diabetes in this population may contribute to racial disparities in CRC mortality.'
 date: 2024-02-17
