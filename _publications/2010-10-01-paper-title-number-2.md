@@ -1,5 +1,5 @@
 ---
-title: "Associations of diabetes and mortality among colorectal cancer patients from the Southern Community Cohort Study"
+title: "Type 2 diabetes and colorectal cancer risk"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
