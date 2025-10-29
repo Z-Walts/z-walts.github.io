@@ -1,7 +1,7 @@
 ---
 title: "Type 2 diabetes and colorectal cancer risk"
 collection: publications
-category: manuscripts
+category: cancer
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Type 2 diabetes and colorectal cancer (CRC) disproportionately burden indviduals of low socioeconomic status and African American race. Although diabetes is an emerging CRC risk factor, associations between diabetes and CRC in these populations are understudied. These findings suggest that given the emerging association between diabetes and elevated risk for colorectal cancer, screening via colonoscopy for individuals with diabetes may help to mitigate risk.'
 date: 2024-11-14
