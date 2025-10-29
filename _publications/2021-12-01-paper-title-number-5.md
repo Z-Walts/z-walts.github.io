@@ -1,8 +1,8 @@
 ---
 title: "Behavioural interventions for CVD risk reduction for blue-collar workers: a systematic review"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+category: rev
+permalink: /publication/2021-12-01-paper-title-number-1
 excerpt: 'Interventions that used individual contact and tailored the intervention to the occupational setting yielded the greatest effects on CVD risk-factor reduction in individuals working in blue-collar occupations. Generally, studies were low quality but showed promising effects for reaching this high-risk population. Future work should incorporate these promising findings in higher-quality studies.'
 date: 2021-12-01
 venue: 'Journal of Epidemiology and Community Health'
